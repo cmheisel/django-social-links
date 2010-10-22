@@ -1,0 +1,6 @@
+*.pyc
+
+# Virtual Envs
+.ve
+ve
+dsl
